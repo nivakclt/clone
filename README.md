@@ -2,6 +2,9 @@
 
 A responsive Nike-inspired e-commerce landing page built using HTML, CSS, Bootstrap, and JavaScript. Designed to showcase modern UI principles, responsive layouts, and clean frontend development practices.
 
+## 🚀 Live Demo
+🔗 http://127.0.0.1:5500/nike/nike.html
+
 ## 🛠️ Tech Stack
 - HTML5
 - CSS3
@@ -13,6 +16,9 @@ A responsive Nike-inspired e-commerce landing page built using HTML, CSS, Bootst
 - Modern user interface
 - Product showcase
 - Clean and reusable code
+
+## 📸 Preview
+(Add a screenshot here)
 
 ---
 ⭐ If you found this project useful, consider giving it a star.
