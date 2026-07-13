@@ -1,39 +1,49 @@
 # 🏀 Nike Clone – Responsive Frontend Website
 
-A modern and responsive **Nike-inspired e-commerce landing page** built using HTML, CSS, and JavaScript.  
-This project is developed for frontend practice, focusing on UI design, responsiveness, and clean code structure.
-
-## 🚀 Live Demo
-🔗 https://your-username.github.io/nike-clone/
+A modern and responsive **Nike-inspired e-commerce landing page** built using **HTML5, CSS3, Bootstrap, and JavaScript**. This project demonstrates responsive web design, clean UI development, and frontend best practices.
 
 ## 🛠️ Tech Stack
+
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
-- Bootstrap (optional)
+- Bootstrap 5
 
-## ✨ Features
-- Fully responsive design (mobile, tablet, desktop)
-- Modern UI with clean layout
-- Hero section with product highlights
-- Product showcase section
-- Smooth navigation and scrolling
-- Well-structured and reusable code
+## 📂 Project Structure
 
-## 📁 Project Structure
+```text
 nike-clone/
 ├── index.html
-├── style.css
-├── script.js
-├── images/
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── assets/
+│   └── images/
 └── README.md
+```
 
-## 🎯 Key Learnings
-- Responsive web design principles
-- Flexbox and Grid layout techniques
-- UI/UX structuring
-- JavaScript DOM manipulation
-- Real-world frontend project workflow
-  
+## 🎯 What I Learned
+
+- Building responsive layouts using Bootstrap
+- Creating modern UI components
+- Writing clean and maintainable HTML & CSS
+- Implementing JavaScript for interactivity
+- Organizing frontend projects using a scalable folder structure
+
+## 🔮 Future Improvements
+
+- Product filtering
+- Shopping cart functionality
+- Dark mode
+- Backend integration
+- User authentication
+
+## 👨‍💻 Author
+
+**Niva K**
+
+- GitHub: https://github.com/nivakclt
+
 ## ⭐ Support
-If you like this project, please give it a ⭐ on GitHub.
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
